@@ -1,4 +1,16 @@
-## Hi there 👋
+
+Tim Pascoe 🚀
+
+⛩️ Senior / Lead Front-End Developer ⛩️
+
+🥇 25+ years of experience 🗝️ working with the 💪🏻 biggest and 🧠 best companies - 👉 Agency 🫵 Client side, Media 👈 and 👉 Banking including - 
+Barclays, BBC, C4, HSBC, ITV, Lego, Santander, Sapient, SKY and many more...
+👉👉 Next, React, Redux, JavaScript, TypeScript, HTML, CSS, Accessibility, AWS Certified Developer & Cloud Practitioner, Certified ScrumMaster … ✅ 
+
+
+📩 	tim@timpascoe.com
+👉	http://uk.linkedin.com/in/timpascoe
+
 
 <!--
 **DevsExMachina/DevsExMachina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
