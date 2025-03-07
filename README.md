@@ -1,20 +1,12 @@
 
-Tim Pascoe 🚀
+# Tim Pascoe 🚀
 
-⛩️ Senior / Lead Front-End Developer ⛩️
+**Senior/Lead Front-End Developer** 
 
 🥇 25+ years of experience 🗝️ working with the 💪🏻 biggest and 🧠 best companies - 👉 Agency 🫵 Client side, Media 👈 and 👉 Banking including - 
 Barclays, BBC, C4, HSBC, ITV, Lego, Santander, Sapient, SKY and many more...
 👉👉 Next, React, Redux, JavaScript, TypeScript, HTML, CSS, Accessibility, AWS Certified Developer & Cloud Practitioner, Certified ScrumMaster … ✅ 
 
-
-📩 	tim@timpascoe.com
-👉	http://uk.linkedin.com/in/timpascoe
-
-
-# Tim Pascoe
-
-**Senior/Lead Front-End Developer**  
 Email: [tim@timpascoe.com](mailto:tim@timpascoe.com)  
 Mobile: 07855 343909  
 LinkedIn: [linkedin.com/in/timpascoe](http://uk.linkedin.com/in/timpascoe)  
@@ -22,11 +14,6 @@ LinkedIn: [linkedin.com/in/timpascoe](http://uk.linkedin.com/in/timpascoe)
 ---
 
 ## In Brief
-
-Senior/Lead Front-End Developer with 25+ years of experience.  
-
-### Previous Clients Include:
-ITV, Santander, HSBC, Barclays, Barclaycard, BBC, C4, SKY, LEGO...
 
 ### Selected Skills:
 Next, React, Redux, TypeScript, JavaScript, HTML, LESS/SASS, CSS, Accessibility...
